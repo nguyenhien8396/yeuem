@@ -1,0 +1,304 @@
+:root {
+  --dl-color-gray-500: #595959;
+  --dl-color-gray-700: #999999;
+  --dl-color-gray-900: #D9D9D9;
+  --dl-size-size-large: 144px;
+  --dl-size-size-small: 48px;
+  --dl-color-danger-300: #A22020;
+  --dl-color-danger-500: #BF2626;
+  --dl-color-danger-700: #E14747;
+  --dl-color-gray-black: #000000;
+  --dl-color-gray-white: #FFFFFF;
+  --dl-size-size-medium: 96px;
+  --dl-size-size-xlarge: 192px;
+  --dl-size-size-xsmall: 16px;
+  --dl-space-space-unit: 16px;
+  --dl-color-primary-100: #003EB3;
+  --dl-color-primary-300: #0074F0;
+  --dl-color-primary-500: #14A9FF;
+  --dl-color-primary-700: #85DCFF;
+  --dl-color-success-300: #199033;
+  --dl-color-success-500: #32A94C;
+  --dl-color-success-700: #4CC366;
+  --dl-size-size-xxlarge: 288px;
+  --dl-color-other-stroke: rgba(242, 246, 247, 1);
+  --dl-size-size-maxwidth: 1400px;
+  --dl-color-other-overlay: rgba(0, 31, 62, 0.800000011920929);
+  --dl-radius-radius-round: 50%;
+  --dl-color-other-gradient: rgba(0, 172, 244, 1);
+  --dl-color-other-skeleton: rgba(240, 245, 255, 1);
+  --dl-space-space-halfunit: 8px;
+  --dl-space-space-sixunits: 96px;
+  --dl-space-space-twounits: 32px;
+  --dl-color-primary-blue500: rgba(0, 104, 255, 1);
+  --dl-color-primary-dark500: rgba(0, 31, 62, 1);
+  --dl-radius-radius-radius2: 2px;
+  --dl-radius-radius-radius4: 4px;
+  --dl-radius-radius-radius8: 8px;
+  --dl-space-space-fiveunits: 80px;
+  --dl-space-space-fourunits: 64px;
+  --dl-color-default-linear01: rgba(247, 247, 247, 1);
+  --dl-color-other-background: rgba(245, 249, 255, 1);
+  --dl-color-primary-green500: rgba(3, 202, 119, 1);
+  --dl-color-primary-white500: rgba(255, 255, 255, 1);
+  --dl-color-secondary-red500: rgba(227, 23, 60, 1);
+  --dl-space-space-threeunits: 48px;
+  --dl-color-secondary-teal500: rgba(85, 179, 243, 1);
+  --dl-color-variant_red-red25: rgba(254, 243, 245, 1);
+  --dl-color-variant_red-red50: rgba(252, 232, 236, 1);
+  --dl-color-variant_red-red100: rgba(249, 209, 216, 1);
+  --dl-color-variant_red-red200: rgba(244, 162, 177, 1);
+  --dl-color-variant_red-red300: rgba(238, 116, 138, 1);
+  --dl-color-variant_red-red400: rgba(233, 69, 99, 1);
+  --dl-color-variant_red-red600: rgba(182, 18, 48, 1);
+  --dl-color-variant_red-red700: rgba(136, 14, 36, 1);
+  --dl-color-variant_red-red800: rgba(91, 9, 24, 1);
+  --dl-color-variant_red-red900: rgba(45, 5, 12, 1);
+  --dl-color-secondary-indigo500: rgba(99, 86, 228, 1);
+  --dl-color-secondary-orange500: rgba(250, 168, 40, 1);
+  --dl-color-variant_blue-blue25: rgba(242, 247, 255, 1);
+  --dl-color-variant_blue-blue50: rgba(230, 240, 255, 1);
+  --dl-color-variant_dark-dark25: rgba(242, 244, 245, 1);
+  --dl-color-variant_dark-dark50: rgba(230, 233, 236, 1);
+  --dl-color-variant_teal-teal25: rgba(247, 251, 254, 1);
+  --dl-color-variant_teal-teal50: rgba(238, 247, 254, 1);
+  --dl-color-variant_blue-blue100: rgba(204, 225, 255, 1);
+  --dl-color-variant_blue-blue200: rgba(153, 195, 255, 1);
+  --dl-color-variant_blue-blue300: rgba(102, 164, 255, 1);
+  --dl-color-variant_blue-blue400: rgba(51, 134, 255, 1);
+  --dl-color-variant_blue-blue600: rgba(0, 83, 204, 1);
+  --dl-color-variant_blue-blue700: rgba(0, 62, 153, 1);
+  --dl-color-variant_blue-blue800: rgba(0, 42, 102, 1);
+  --dl-color-variant_blue-blue900: rgba(0, 21, 51, 1);
+  --dl-color-variant_dark-dark100: rgba(204, 210, 216, 1);
+  --dl-color-variant_dark-dark200: rgba(153, 165, 178, 1);
+  --dl-color-variant_dark-dark300: rgba(102, 121, 139, 1);
+  --dl-color-variant_dark-dark400: rgba(51, 76, 101, 1);
+  --dl-color-variant_dark-dark600: rgba(0, 25, 50, 1);
+  --dl-color-variant_dark-dark700: rgba(0, 19, 37, 1);
+  --dl-color-variant_dark-dark800: rgba(0, 12, 25, 1);
+  --dl-color-variant_dark-dark900: rgba(0, 6, 12, 1);
+  --dl-color-variant_teal-teal100: rgba(221, 240, 253, 1);
+  --dl-color-variant_teal-teal200: rgba(187, 225, 250, 1);
+  --dl-color-variant_teal-teal300: rgba(153, 209, 248, 1);
+  --dl-color-variant_teal-teal400: rgba(119, 194, 245, 1);
+  --dl-color-variant_teal-teal600: rgba(68, 143, 194, 1);
+  --dl-color-variant_teal-teal700: rgba(51, 107, 146, 1);
+  --dl-color-variant_teal-teal800: rgba(34, 72, 97, 1);
+  --dl-color-variant_teal-teal900: rgba(17, 36, 49, 1);
+  --dl-color-variant_green-green25: rgba(242, 252, 248, 1);
+  --dl-color-variant_green-green50: rgba(230, 250, 241, 1);
+  --dl-space-space-oneandhalfunits: 24px;
+  --dl-color-variant_green-green100: rgba(205, 244, 228, 1);
+  --dl-color-variant_green-green200: rgba(154, 234, 201, 1);
+  --dl-color-variant_green-green300: rgba(104, 223, 173, 1);
+  --dl-color-variant_green-green400: rgba(53, 213, 146, 1);
+  --dl-color-variant_green-green600: rgba(2, 162, 95, 1);
+  --dl-color-variant_green-green700: rgba(2, 121, 71, 1);
+  --dl-color-variant_green-green800: rgba(1, 81, 48, 1);
+  --dl-color-variant_green-green900: rgba(1, 40, 24, 1);
+  --dl-color-variant_indigo-indigo25: rgba(247, 247, 254, 1);
+  --dl-color-variant_indigo-indigo50: rgba(239, 238, 252, 1);
+  --dl-color-variant_orange-orange25: rgba(255, 251, 244, 1);
+  --dl-color-variant_orange-orange50: rgba(255, 246, 234, 1);
+  --dl-color-variant_indigo-indigo100: rgba(224, 221, 250, 1);
+  --dl-color-variant_indigo-indigo200: rgba(193, 187, 244, 1);
+  --dl-color-variant_indigo-indigo300: rgba(161, 154, 239, 1);
+  --dl-color-variant_indigo-indigo400: rgba(130, 120, 233, 1);
+  --dl-color-variant_indigo-indigo600: rgba(79, 69, 182, 1);
+  --dl-color-variant_indigo-indigo700: rgba(59, 52, 137, 1);
+  --dl-color-variant_indigo-indigo800: rgba(40, 34, 91, 1);
+  --dl-color-variant_indigo-indigo900: rgba(20, 17, 46, 1);
+  --dl-color-variant_orange-orange100: rgba(254, 238, 212, 1);
+  --dl-color-variant_orange-orange200: rgba(253, 220, 169, 1);
+  --dl-color-variant_orange-orange300: rgba(252, 203, 126, 1);
+  --dl-color-variant_orange-orange400: rgba(251, 185, 83, 1);
+  --dl-color-variant_orange-orange600: rgba(200, 134, 32, 1);
+  --dl-color-variant_orange-orange700: rgba(150, 101, 24, 1);
+  --dl-color-variant_orange-orange800: rgba(100, 67, 16, 1);
+  --dl-color-variant_orange-orange900: rgba(50, 34, 8, 1);
+}
+.button {
+  color: var(--dl-color-gray-black);
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-gray-white);
+}
+.input {
+  color: var(--dl-color-gray-black);
+  cursor: auto;
+  padding: 0.5rem 1rem;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-gray-white);
+}
+.textarea {
+  color: var(--dl-color-gray-black);
+  cursor: auto;
+  padding: 0.5rem;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-gray-white);
+}
+.list {
+  width: 100%;
+  margin: 1em 0px 1em 0px;
+  display: block;
+  padding: 0px 0px 0px 1.5rem;
+  list-style-type: none;
+  list-style-position: outside;
+}
+.list-item {
+  display: list-item;
+}
+.teleport-show {
+  display: flex !important;
+  transform: none !important;
+}
+.Label-BoldS12-Small {
+  font-size: 12px;
+  font-style: normal;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.Label-RegularS10-XSmall {
+  font-size: 10px;
+  font-style: normal;
+  font-family: SF Pro Display;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.Label-BoldS14-Medium {
+  font-size: 14px;
+  font-style: normal;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.Label-BoldS10-XSmall {
+  font-size: 10px;
+  font-style: normal;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.Heading-BoldS16-Small {
+  font-size: 16px;
+  font-style: normal;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.Label-BoldS16-Large {
+  font-size: 16px;
+  font-style: normal;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.Heading-RegularS24-Large {
+  font-size: 24px;
+  font-style: normal;
+  font-family: SF Pro Display;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.Paragraph-BoldS16-Large {
+  font-size: 16px;
+  font-style: normal;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.Heading-BoldS24-Large {
+  font-size: 24px;
+  font-style: normal;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.Heading-BoldS18-Medium {
+  font-size: 18px;
+  font-style: normal;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.Heading-RegularS18-Medium {
+  font-size: 18px;
+  font-style: normal;
+  font-family: SF Pro Display;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.Label-RegularS16-Large {
+  font-size: 16px;
+  font-style: normal;
+  font-family: SF Pro Display;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.Heading {
+  font-size: 32px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.Paragraph-RegularS14-Medium {
+  font-size: 14px;
+  font-style: normal;
+  font-family: SF Pro Display;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.Paragraph-RegularS16-Large {
+  font-size: 16px;
+  font-style: normal;
+  font-family: SF Pro Display;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.Paragraph-BoldS14-Medium {
+  font-size: 14px;
+  font-style: normal;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.Heading-RegularS16-Small {
+  font-size: 16px;
+  font-style: normal;
+  font-family: SF Pro Display;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.Content {
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.Label-RegularS12-Small {
+  font-size: 12px;
+  font-style: normal;
+  font-family: SF Pro Display;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.Label-RegularS14-Medium {
+  font-size: 14px;
+  font-style: normal;
+  font-family: SF Pro Display;
+  font-weight: 400px;
+  font-stretch: normal;
+}

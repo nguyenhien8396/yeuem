@@ -1,0 +1,1100 @@
+.refund02-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.refund02-frame427319368 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.refund02-button {
+  gap: 37px;
+  display: flex;
+  padding: 10px 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+  text-decoration: none;
+  background-color: var(--dl-color-primary-dark500);
+}
+.refund02-image12 {
+  width: 24px;
+  height: 24px;
+}
+.refund02-text {
+  color: var(--dl-color-primary-white500);
+  height: auto;
+  flex-grow: 1;
+  text-align: center;
+  line-height: 20px;
+}
+.refund02-image13 {
+  width: 24px;
+  height: 24px;
+}
+.refund02-frame427319369 {
+  gap: 48px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.refund02-frame427319364 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.refund02-navigation-bar {
+  gap: 53px;
+  display: flex;
+  padding: 10px 16px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+  background-image: linear-gradient(0deg, rgba(0, 172, 244, 1) 0%, rgba(0, 133, 255, 1) 100%);
+}
+.refund02-frame7335 {
+  gap: 8px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.refund02-text02 {
+  color: var(--dl-color-primary-white500);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.refund02-text03 {
+  font-weight: 400;
+}
+.refund02-image23 {
+  width: 24px;
+  height: 24px;
+}
+.refund02-frame427319367 {
+  height: 141px;
+  display: flex;
+  padding: 0 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 0 0 32px 32px;
+  flex-direction: column;
+  background-image: linear-gradient(0deg, rgba(0, 172, 244, 1) 0%, rgba(0, 133, 255, 1) 100%);
+}
+.refund02-group3 {
+  gap: 24px;
+  height: 191px;
+  display: flex;
+  padding: 16px 0 0;
+  overflow: hidden;
+  align-self: stretch;
+  box-shadow: 0px 2px 12px 0px rgba(0, 31, 62, 0.15000000596046448) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.refund02-frame427319138 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.refund02-frame427319129 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.refund02-frame427319156 {
+  gap: 8px;
+  display: flex;
+  padding: 0 16px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.refund02-frame427319127 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+.refund02-content {
+  gap: 8px;
+  width: 311px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.refund02-frame427319123 {
+  gap: 4px;
+  width: 311px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.refund02-frame427319124 {
+  gap: 6px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.refund02-image16 {
+  width: 16px;
+  height: 16px;
+}
+.refund02-text05 {
+  color: var(--dl-color-variant_dark-dark300);
+  height: auto;
+  flex-grow: 1;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.refund02-frame4273191271 {
+  gap: 4px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.refund02-text07 {
+  color: var(--dl-color-primary-blue500);
+  height: auto;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.refund02-frame427319133 {
+  gap: 10px;
+  width: 12px;
+  height: 38px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.refund02-text09 {
+  top: 11px;
+  color: var(--dl-color-primary-blue500);
+  width: 12px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.refund02-rectangle1325 {
+  width: auto;
+  height: 1px;
+  align-self: stretch;
+}
+.refund02-frame427319126 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.refund02-frame427319135 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.refund02-content1 {
+  gap: 2px;
+  width: 144px;
+  display: flex;
+  padding: 4px 8px;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(245, 249, 255, 1);
+}
+.refund02-frame427319145 {
+  gap: 4px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.refund02-text10 {
+  color: var(--dl-color-variant_dark-dark300);
+  height: auto;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 500;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.refund02-frame427319128 {
+  gap: 2px;
+  display: flex;
+  align-items: center;
+}
+.refund02-text12 {
+  color: var(--dl-color-primary-dark500);
+  height: auto;
+  text-align: left;
+  line-height: 18px;
+}
+.refund02-frame427319132 {
+  gap: 10px;
+  width: 7px;
+  height: 18px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.refund02-content2 {
+  gap: 2px;
+  width: 144px;
+  display: flex;
+  padding: 4px 8px;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(245, 249, 255, 1);
+}
+.refund02-text14 {
+  color: var(--dl-color-variant_dark-dark300);
+  height: auto;
+  font-size: 12px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 500;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.refund02-frame4273191281 {
+  gap: 2px;
+  display: flex;
+  align-items: center;
+}
+.refund02-text16 {
+  color: var(--dl-color-primary-dark500);
+  height: auto;
+  text-align: left;
+  line-height: 18px;
+}
+.refund02-frame4273191321 {
+  gap: 10px;
+  width: 7px;
+  height: 18px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.refund02-text17 {
+  top: 2px;
+  color: var(--dl-color-primary-dark500);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.refund02-settle-display {
+  gap: 8px;
+  display: flex;
+  padding: 8px 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 0 0 4px 4px;
+  background-color: var(--dl-color-primary-blue500);
+}
+.refund02-frame427319136 {
+  gap: 8px;
+  width: 296px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.refund02-frame427319157 {
+  gap: 2px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.refund02-frame427319142 {
+  gap: 3px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.refund02-text18 {
+  color: var(--dl-color-primary-white500);
+  height: auto;
+  flex-grow: 1;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 500;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.refund02-frame4273191282 {
+  gap: 2px;
+  display: flex;
+  align-items: center;
+}
+.refund02-text20 {
+  color: var(--dl-color-variant_green-green200);
+  height: auto;
+  text-align: left;
+  line-height: 18px;
+}
+.refund02-frame7348 {
+  gap: 10px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.refund02-frame427319160 {
+  gap: 16px;
+  display: flex;
+  opacity: 0.50;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.refund02-message {
+  gap: 8px;
+  display: flex;
+  padding: 8px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: rgba(245, 249, 255, 1);
+}
+.refund02-ic16generalquestion {
+  width: 16px;
+  height: 16px;
+}
+.refund02-frame427319151 {
+  gap: 2px;
+  width: 288px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.refund02-text22 {
+  color: var(--dl-color-primary-blue500);
+  height: auto;
+  font-size: 14px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.refund02-function {
+  display: flex;
+  opacity: 0.50;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.refund02-service-topup {
+  gap: 6px;
+  width: 109.33333587646484px;
+  display: flex;
+  padding: 8px 14px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.refund02-image18 {
+  width: 36px;
+  height: 36px;
+}
+.refund02-text24 {
+  color: var(--dl-color-primary-dark500);
+  width: 85px;
+  height: auto;
+  text-align: center;
+  line-height: 18px;
+}
+.refund02-service-billing {
+  gap: 6px;
+  width: 109.33332824707031px;
+  display: flex;
+  padding: 8px 14px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.refund02-image17 {
+  width: 36px;
+  height: 36px;
+}
+.refund02-text29 {
+  color: var(--dl-color-primary-dark500);
+  width: 85px;
+  height: auto;
+  text-align: center;
+  line-height: 18px;
+}
+.refund02-service-qrpayment {
+  gap: 6px;
+  width: 109.33332824707031px;
+  display: flex;
+  padding: 8px 14px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.refund02-image19 {
+  width: 36px;
+  height: 36px;
+}
+.refund02-text34 {
+  color: var(--dl-color-primary-dark500);
+  width: 85px;
+  height: auto;
+  text-align: center;
+  line-height: 18px;
+}
+.refund02-function1 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.refund02-service-splitmoney {
+  gap: 6px;
+  width: 109.33333587646484px;
+  display: flex;
+  opacity: 0.50;
+  padding: 8px 14px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.refund02-image20 {
+  width: 36px;
+  height: 36px;
+}
+.refund02-text39 {
+  color: var(--dl-color-primary-dark500);
+  width: 85px;
+  height: auto;
+  text-align: center;
+  line-height: 18px;
+}
+.refund02-service-splitmoney1 {
+  gap: 6px;
+  width: 109.33332824707031px;
+  display: flex;
+  padding: 8px 14px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(3, 202, 119, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.refund02-image21 {
+  width: 36px;
+  height: 36px;
+}
+.refund02-text44 {
+  color: var(--dl-color-primary-dark500);
+  width: 85px;
+  height: auto;
+  text-align: center;
+  line-height: 18px;
+}
+.refund02-service-splitmoney2 {
+  gap: 6px;
+  width: 109.33332824707031px;
+  display: flex;
+  opacity: 0.50;
+  padding: 8px 14px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.refund02-image22 {
+  width: 36px;
+  height: 36px;
+}
+.refund02-text49 {
+  color: var(--dl-color-primary-dark500);
+  width: 85px;
+  height: auto;
+  text-align: center;
+  line-height: 18px;
+}
+.refund02-richtooltip {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.refund02-textand-arrow {
+  width: 328px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.refund02-text54 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-variant_blue-blue25);
+}
+.refund02-frame6896 {
+  gap: 4px;
+  width: 216px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.refund02-text55 {
+  color: var(--dl-color-primary-dark500);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 18px;
+}
+.refund02-text57 {
+  color: var(--dl-color-variant_dark-dark300);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 18px;
+}
+.refund02-frame427319143 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.refund02-replacethisimage {
+  width: 64px;
+  height: 64px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.refund02-image121 {
+  top: 0px;
+  left: 4.266666889190674px;
+  width: 56px;
+  height: 64px;
+  position: absolute;
+}
+.refund02-frame427319172 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.refund02-frame3505 {
+  gap: 16px;
+  display: flex;
+  padding: 16px 20px 24px;
+  align-self: stretch;
+  align-items: center;
+  border-radius: 16px 16px 0 0;
+  flex-direction: column;
+  background-color: rgba(245, 249, 255, 1);
+}
+.refund02-title {
+  gap: 4px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.refund02-frame36549 {
+  gap: 4px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.refund02-text59 {
+  color: var(--dl-color-primary-dark500);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 20px;
+}
+.refund02-frame985508 {
+  gap: 8px;
+  display: flex;
+  opacity: 0.50;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.refund02-chips-small36 {
+  gap: 10px;
+  height: 30px;
+  display: flex;
+  padding: 9px 12px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 104, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 100px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.refund02-text61 {
+  color: var(--dl-color-primary-blue500);
+  height: auto;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.refund02-chips-small361 {
+  gap: 10px;
+  height: 30px;
+  display: flex;
+  padding: 9px 12px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(204, 210, 216, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 100px;
+  justify-content: center;
+  background-color: var(--dl-color-primary-white500);
+}
+.refund02-text63 {
+  color: var(--dl-color-primary-dark500);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.refund02-linkbutton-large16 {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  border-radius: 8px;
+  justify-content: flex-end;
+}
+.refund02-text65 {
+  color: var(--dl-color-primary-blue500);
+  height: auto;
+  text-align: center;
+  line-height: 18px;
+}
+.refund02-frame7004 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 8px;
+  flex-direction: column;
+}
+.refund02-content3 {
+  gap: 8px;
+  display: flex;
+  opacity: 0.50;
+  padding: 16px;
+  align-self: stretch;
+  box-shadow: 0px 2px 12px 0px rgba(0, 31, 62, 0.05000000074505806) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.refund02-ic36servicemywalletcharge {
+  width: 24px;
+  height: 24px;
+}
+.refund02-content4 {
+  gap: 4px;
+  width: 124px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.refund02-text67 {
+  color: var(--dl-color-primary-dark500);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 18px;
+}
+.refund02-text69 {
+  color: var(--dl-color-variant_dark-dark200);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 16px;
+}
+.refund02-frame427319170 {
+  gap: 4px;
+  width: 124px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-end;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.refund02-frame2295 {
+  gap: 4px;
+  width: 99px;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.refund02-text71 {
+  color: var(--dl-color-primary-dark500);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 18px;
+}
+.refund02-text73 {
+  color: var(--dl-color-primary-green500);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 16px;
+}
+.refund02-content5 {
+  gap: 8px;
+  display: flex;
+  opacity: 0.50;
+  padding: 16px;
+  align-self: stretch;
+  box-shadow: 0px 2px 12px 0px rgba(0, 31, 62, 0.05000000074505806) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.refund02-ic36servicemywalletcharge1 {
+  width: 24px;
+  height: 24px;
+}
+.refund02-content6 {
+  gap: 4px;
+  width: 124px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.refund02-text75 {
+  color: var(--dl-color-primary-dark500);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 18px;
+}
+.refund02-text77 {
+  color: var(--dl-color-variant_dark-dark200);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 16px;
+}
+.refund02-frame4273191701 {
+  gap: 4px;
+  width: 124px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-end;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.refund02-frame22951 {
+  gap: 4px;
+  width: 99px;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.refund02-text79 {
+  color: var(--dl-color-primary-dark500);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 18px;
+}
+.refund02-text81 {
+  color: var(--dl-color-primary-green500);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 16px;
+}
+.refund02-content7 {
+  gap: 8px;
+  display: flex;
+  opacity: 0.50;
+  padding: 16px;
+  align-self: stretch;
+  box-shadow: 0px 2px 12px 0px rgba(0, 31, 62, 0.05000000074505806) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.refund02-ic36servicemywalletcharge2 {
+  width: 24px;
+  height: 24px;
+}
+.refund02-content8 {
+  gap: 4px;
+  width: 124px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.refund02-text83 {
+  color: var(--dl-color-primary-dark500);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 18px;
+}
+.refund02-text85 {
+  color: var(--dl-color-variant_dark-dark200);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 16px;
+}
+.refund02-frame4273191702 {
+  gap: 4px;
+  width: 124px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-end;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.refund02-frame22952 {
+  gap: 4px;
+  width: 99px;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.refund02-text87 {
+  color: var(--dl-color-primary-dark500);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 18px;
+}
+.refund02-text89 {
+  color: var(--dl-color-primary-green500);
+  height: auto;
+  align-self: stretch;
+  text-align: right;
+  line-height: 16px;
+}
+.refund02-frame73481 {
+  display: flex;
+  opacity: 0.50;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.refund02-tab-bar-cell-active {
+  gap: 10px;
+  width: 180px;
+  display: flex;
+  padding: 10px 0;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-primary-white500);
+}
+.refund02-frame7319 {
+  gap: 4px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.refund02-image24 {
+  width: 24px;
+  height: 24px;
+}
+.refund02-text91 {
+  color: var(--dl-color-primary-blue500);
+  width: 75px;
+  height: auto;
+  text-align: center;
+  line-height: 16px;
+}
+.refund02-tab-bar-cell-active1 {
+  gap: 10px;
+  width: 180px;
+  display: flex;
+  padding: 10px 0;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-primary-white500);
+}
+.refund02-frame73191 {
+  gap: 4px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.refund02-image25 {
+  width: 24px;
+  height: 24px;
+}
+.refund02-text93 {
+  color: var(--dl-color-variant_dark-dark300);
+  width: 75px;
+  height: auto;
+  text-align: center;
+  line-height: 16px;
+}
